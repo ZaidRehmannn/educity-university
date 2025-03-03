@@ -1,8 +1,19 @@
-# React + Vite
+# Educity University
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive university website built using **React**. This project provides an intuitive and visually appealing interface for an educational institution.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Homepage** with key university information  
+- **Courses Section** displaying available programs  
+- **Admissions Page** with application details  
+- **Responsive Design** for all devices  
+
+## Technologies Used
+
+- **React**  
+- **CSS**  
+
+## Live Demo
+
+Try it here: [https://educity-university-orpin.vercel.app/]
