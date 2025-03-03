@@ -16,4 +16,4 @@ A responsive university website built using **React**. This project provides an 
 
 ## Live Demo
 
-Try it here: [https://educity-university-orpin.vercel.app/]
+Try it here: https://educity-university-orpin.vercel.app/
