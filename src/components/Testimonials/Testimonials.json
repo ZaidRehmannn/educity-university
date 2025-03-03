@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "user-1.png",
+        "name": "Emily Thompson",
+        "location": "Edusity, USA",
+        "description": "The comprehensive curriculum at Edusity has broadened my knowledge base and enhanced my career prospects. I appreciate the hands-on approach and the way the professors make complex subjects easy to understand."
+    },
+    {
+        "id": 2,
+        "image": "user-2.png",
+        "name": "William Jackson",
+        "location": "Edusity, USA",
+        "description": "Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations."
+    },
+    {
+        "id": 3,
+        "image": "user-3.png",
+        "name": "Sarah Johnson",
+        "location": "Edusity, USA",
+        "description": "Edusity has exceeded my expectations with its innovative teaching methods and supportive faculty. The practical experience I've gained here has been invaluable, preparing me for real-world challenges in my industry."
+    },
+    {
+        "id": 4,
+        "image": "user-4.png",
+        "name": "Michael Smith",
+        "location": "Edusity, USA",
+        "description": "Edusity offers a truly immersive learning experience. The interactive sessions and diverse learning resources have allowed me to gain a deeper understanding of my field, helping me to stand out in my career."
+    }
+]
